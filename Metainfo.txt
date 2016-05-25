@@ -1,0 +1,17 @@
+Name of QuantLet:  XFG_DCC_GARCH
+
+Description:       Estimates VaR by a DCC GARCH model and conducts a backtest. 
+
+Keywords:          financial, portfolio, asset, time-series, garch, dcc, backtest
+
+Author:            Sophie Stadlinger
+
+Submitted:         2016/05/25
+
+Datafile:          portfolio4Y.xlsx
+
+Input:  	   Historical time series of different assets
+
+Output:  	   Estimated VaR and its Violation Rate 
+
+
